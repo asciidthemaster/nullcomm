@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nullcomm</title>
+    <link>/</link>
+    <description>Recent content on nullcomm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(F)uck Copyright, nullcomm, 2019 </copyright>
+    <lastBuildDate>Fri, 25 Oct 2019 16:14:00 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>000</title>
+      <link>/netmadness/000/</link>
+      <pubDate>Fri, 25 Oct 2019 16:14:00 +0300</pubDate>
+      
+      <guid>/netmadness/000/</guid>
+      <description>% Вставить какую-нибудь цитату из киберпанковой литературы % % Написать вступление. Разметить нижеприведённое как ссылки на соответствующие записи сайта. % % Перед публикацией обязательно перепроверить разметку каждой статьи. % 001 &amp;ndash; Самооборона.
+002 — Мускатный орех.
+003 — Тульпы (Доброчан).
+004 — Тульпы. Часто задаваемые вопросы.
+005 — Советы бывшего закладчика.
+006 — Термитный ключик.
+007 — История имиджборд со слов анонима.
+008 — Последние часы Муссолини.
+009 — Синтез амфетаминов на кухне.</description>
+    </item>
+    
+    <item>
+      <title>Команда</title>
+      <link>/nullcomm/</link>
+      <pubDate>Thu, 24 Oct 2019 21:09:43 +0300</pubDate>
+      
+      <guid>/nullcomm/</guid>
+      <description>Vivamus vel auctor ante. Sed ultricies elit at posuere porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla quis eros ac mauris semper dapibus. Donec vitae lectus bibendum, laoreet augue sit amet, tristique quam. Ut quis leo elementum, aliquam magna et, congue ligula. Sed ullamcorper imperdiet felis at congue. Pellentesque facilisis eleifend ultricies. Pellentesque fermentum sagittis elit, vel sagittis neque aliquet sit amet. Praesent rutrum tristique interdum.</description>
+    </item>
+    
+    <item>
+      <title>Проекты</title>
+      <link>/projects/</link>
+      <pubDate>Thu, 24 Oct 2019 21:09:36 +0300</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>netMadness</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 24 Oct 2019 21:02:19 +0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id enim ut orci luctus suscipit. Fusce iaculis faucibus turpis non aliquet. Mauris laoreet molestie orci, vitae viverra nisl porta non. Pellentesque finibus molestie sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed vitae ex at est volutpat egestas et vel erat. Curabitur vel fringilla sapien, vel facilisis quam. Duis quis semper magna. In auctor urna sodales sagittis pharetra.</description>
+    </item>
+    
+    <item>
+      <title>init()</title>
+      <link>/posts/init/</link>
+      <pubDate>Thu, 24 Oct 2019 20:54:24 +0300</pubDate>
+      
+      <guid>/posts/init/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
